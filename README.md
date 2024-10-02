@@ -34,13 +34,6 @@
         Browser Anda tidak mendukung tag video.
     </video>
 
-    <h2>Audio</h2>
-    <audio controls>
-        <source src="music.mp3" type="audio/mpeg">
-        <source src="music.ogg" type="audio/ogg">
-        Browser Anda tidak mendukung tag audio.
-    </audio>
-
     <h2>Footer</h2>
     <footer>
         <p>&copy; 2024 Hak Cipta Dilindungi. Semua hak dilindungi.</p>
